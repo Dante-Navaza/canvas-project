@@ -1,0 +1,17 @@
+body{
+    background-color: #1A2626;
+    text-align: center;
+}
+
+#obama_flag{
+    margin: 30px;
+    background-color: seagreen;
+    border: 5px goldenrod;
+}
+
+#bolsonaro_flag{
+    margin: 30px;
+    background-color: green;
+    border: 10px outset goldenrod;
+}
+
